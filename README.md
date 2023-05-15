@@ -8,4 +8,4 @@ Project #1: A simple calculator program that performs basic arithmetic operation
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for learning purposes or modify it according to your needs.
+This repository is licensed under the MIT License. Feel free to use the code for learning purposes or modify it according to your needs.
