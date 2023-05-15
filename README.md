@@ -4,4 +4,8 @@ This repository contains a collection of Command-Line Interface (CLI) projects w
 
 ## Projects
 
-1. **Calculator**: A simple calculator program that performs basic arithmetic operations (+, -, *, /) on two numbers entered by the user.
+Project #1: A simple calculator program that performs basic arithmetic operations (+, -, *, /) on two numbers entered by the user.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for learning purposes or modify it according to your needs.
