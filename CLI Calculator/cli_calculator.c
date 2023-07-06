@@ -40,7 +40,7 @@ int main(int argc, char *argv[]) {
             }
             break;
         default:
-            printf("You entered an operator that isn't supported, please try again!\n");
+            printf("You entered something that isn't supported, please try again!\n");
             break;
     }
 
